@@ -16,7 +16,7 @@ const Thankyou = () => {
           Thank You for Shopping!!
         </h1>
         <p className="text-white text-lg md:text-2xl mt-4 animate-fade-in">
-          Your order will be delivered in 3 business days!
+          Your order will be delivered in 3 working days!
         </p>
       </div>
     </div>
